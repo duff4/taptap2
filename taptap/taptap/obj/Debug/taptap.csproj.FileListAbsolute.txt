@@ -1,0 +1,13 @@
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\bin\Debug\taptap.exe.config
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\bin\Debug\taptap.exe
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\bin\Debug\taptap.pdb
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\obj\Debug\taptap.csprojResolveAssemblyReference.cache
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\obj\Debug\taptap.Form1.resources
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\obj\Debug\taptap.Properties.Resources.resources
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\obj\Debug\taptap.csproj.GenerateResource.Cache
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\obj\Debug\taptap.exe
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\obj\Debug\taptap.pdb
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\bin\Debug\taptap.exe.manifest
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\bin\Debug\taptap.application
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\obj\Debug\taptap.exe.manifest
+c:\users\davydovp\documents\visual studio 2013\Projects\taptap\taptap\obj\Debug\taptap.application
